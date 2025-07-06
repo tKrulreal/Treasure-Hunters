@@ -1,4 +1,5 @@
 # Treasure-Hunters
+Note"phiên bản unity để chạy được là 6000.0.39f1"
 "Treasure-Hunters" là một game phiêu lưu 2D được phát triển bằng Unity, mang phong cách platformer cổ điển nhưng đầy thử thách. Trò chơi có hệ thống gameplay rõ ràng, được tổ chức tốt với các mẫu thiết kế phần mềm (design pattern) hiện đại để đảm bảo mở rộng và bảo trì dễ dàng.(vì thời gian có hạn em chỉ làm được 2 map mn thông cảm)
 
 🎯 Tính năng nổi bật
